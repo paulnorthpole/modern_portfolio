@@ -186,7 +186,8 @@ main {
   grid-template-columns: repeat(3, 1fr); }
   .projects img {
     width: 100%;
-    border: 3px #ffffff solid; }
+    border: 3px #ffffff solid;
+    height: 77%; }
     .projects img:hover {
       opacity: 0.5;
       border-color: #eece1a;
@@ -225,13 +226,13 @@ main {
   color: #fff; }
 
 .btn-light {
-  background: #c4c4c4;
+  background: #c4c3c3;
   color: #333; }
 
 #main-footer {
   text-align: center;
   padding: 1rem;
-  background: #2b2b2b;
+  background: #2b2a2a;
   color: #fff;
   height: 60px; }
 

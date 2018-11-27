@@ -79,27 +79,32 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/dist/img/portrait.jpg": {
-		"ft": 16384,
-		"iS": 53358,
-		"jF": 0,
+	"/dist/img/projects/alecbirthday.png": {
+		"ft": 32768,
+		"iS": 162854,
 		"oA": 0,
-		"oAP": "/dist/img/portrait.jpg",
+		"oAP": "/dist/img/projects/alecbirthday.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
-	"/dist/img/portrait_small.jpg": {
-		"ft": 16384,
-		"iS": 38423,
-		"jF": 0,
+	"/dist/img/projects/colorgame.gif": {
+		"ft": 4194304,
+		"iS": 2406811,
 		"oA": 0,
-		"oAP": "/dist/img/portrait_small.jpg",
+		"oAP": "/dist/img/projects/colorgame.gif",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"opt": 1
+		},
+	"/dist/img/projects/colorgamesmall.gif": {
+		"ft": 4194304,
+		"iS": 1364466,
+		"oA": 0,
+		"oAP": "/dist/img/projects/colorgamesmall.gif",
+		"oF": 0,
+		"opt": 1
 		},
 	"/dist/img/projects/landingPage.png": {
 		"ft": 32768,
@@ -112,60 +117,24 @@
 		"oT": 1,
 		"q": 72
 		},
-	"/dist/img/projects/project1.jpg": {
-		"ft": 16384,
-		"iS": 145548,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/dist/img/projects/project1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/dist/img/projects/project2.jpg": {
-		"ft": 16384,
-		"iS": 149820,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/dist/img/projects/project2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/dist/img/projects/project3.jpg": {
-		"ft": 16384,
-		"iS": 161624,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/dist/img/projects/project3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/dist/img/projects/project3.png": {
+	"/dist/img/projects/moviesandstuff.png": {
 		"ft": 32768,
-		"iS": 545760,
+		"iS": 826930,
 		"oA": 0,
-		"oAP": "/dist/img/projects/project3.png",
+		"oAP": "/dist/img/projects/moviesandstuff.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dist/img/projects/project4.jpg": {
-		"ft": 16384,
-		"iS": 136123,
-		"jF": 0,
+	"/dist/img/projects/PatATapClone.gif": {
+		"ft": 4194304,
+		"iS": 1940354,
 		"oA": 0,
-		"oAP": "/dist/img/projects/project4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oAP": "/dist/img/projects/PatATapClone.gif",
+		"oF": 1,
+		"opt": 1
 		},
 	"/dist/img/projects/project5.jpg": {
 		"ft": 16384,
@@ -194,22 +163,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"/dist/project_demos/colorgame.gif": {
-		"ft": 4194304,
-		"iS": 2580938,
-		"oA": 0,
-		"oAP": "/dist/project_demos/colorgame.gif",
-		"oF": 0,
-		"opt": 1
-		},
-	"/dist/project_demos/colorgamesmall.gif": {
-		"ft": 4194304,
-		"iS": 1364466,
-		"oA": 0,
-		"oAP": "/dist/project_demos/colorgamesmall.gif",
-		"oF": 0,
-		"opt": 0
 		},
 	"/dist/work.html": {
 		"cB": 0,
@@ -249,7 +202,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/_config.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -262,7 +215,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/_menu.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -275,7 +228,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/_mobile.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -287,8 +240,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/scss/main.css",
-		"oF": 0,
+		"oAP": "/dist/css/main.css",
+		"oF": 3,
 		"oS": 0,
 		"uL": 1
 		}
